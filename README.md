@@ -16,6 +16,8 @@ https://seiei-sogen.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_is_sharp_but_bad_at_cutting)
+- Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_and_knife)
 - May 25 [Rust + axum で画像掲示板を作る (3) SQLite + sqlx 接続とマイグレーション](https://zenn.dev/purenium/articles/2026_05_25_rust-axum-imgbbs-03-sqlx-migration)
 - May 23 [Rust + axum で画像掲示板を作る (2) tracing と TraceLayer で開発体験を整える](https://zenn.dev/purenium/articles/2026_05_23_rust-axum-imgbbs-02-tracing)
 - May 22 [Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!](https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init)
@@ -24,8 +26,6 @@ https://seiei-sogen.github.io/
 - Nov 1 [いかにして『型』は人を救うか。【ウィトゲンシュタイン / 千葉雅也】](https://zenn.dev/purenium/articles/2024_11_01_how_type_systems_can_save_humans)
 - Oct 31 [テストとは《写像》である～なぜ自動テストが書けないのか～](https://zenn.dev/purenium/articles/2024_11_31_test_is_a_mapping)
 - Aug 5 [【2024年】フロントエンド設定集（ESLint、Prettier、EditorConfig、tsconfig.json……）](https://zenn.dev/purenium/articles/2024_08_05_front-end_configuration)
-- Mar 27 [Clean Architecture の『骨』](https://zenn.dev/purenium/articles/clean-architecture-essence)
-- Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 <!-- profile updater end: zenn -->
 
 <br>
