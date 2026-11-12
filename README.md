@@ -13,6 +13,7 @@ Software Developer / Engineer.
 ## 📝 Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Nov 12 [【ドストエフスキー/罪と罰】口述筆記は努力か才能か](https://zenn.dev/purenium/articles/2026_11_12_dostoevsky_voice_input_talent_or_skill)
 - Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_is_sharp_but_bad_at_cutting)
 - Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_and_knife)
 - May 25 [Rust + axum で画像掲示板を作る (3) SQLite + sqlx 接続とマイグレーション](https://zenn.dev/purenium/articles/2026_05_25_rust-axum-imgbbs-03-sqlx-migration)
@@ -22,7 +23,6 @@ Software Developer / Engineer.
 - Oct 4 [オブジェクト指向無本質論【後期ウィトゲンシュタイン/家族的類似性】―「本当のオブジェクト指向」はない](https://zenn.dev/purenium/articles/2025_10_04_object-oriented-family-resemblance)
 - Nov 1 [いかにして『型』は人を救うか。【ウィトゲンシュタイン / 千葉雅也】](https://zenn.dev/purenium/articles/2024_11_01_how_type_systems_can_save_humans)
 - Oct 31 [テストとは《写像》である～なぜ自動テストが書けないのか～](https://zenn.dev/purenium/articles/2024_11_31_test_is_a_mapping)
-- Aug 5 [【2024年】フロントエンド設定集（ESLint、Prettier、EditorConfig、tsconfig.json……）](https://zenn.dev/purenium/articles/2024_08_05_front-end_configuration)
 <!-- profile updater end: zenn -->
 
 ## 📊 GitHub Stats
