@@ -13,6 +13,8 @@ Software Developer / Engineer.
 ## 📝 Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Nov 16 [言語は思考の本体か](https://zenn.dev/purenium/articles/2026_11_16_is_language_the_essence_of_thought)
+- Nov 16 [言語は思考の本体か](https://zenn.dev/purenium/articles/2026_11_11_is_language_the_essence_of_thought)
 - Nov 12 [【ドストエフスキー/罪と罰】口述筆記は努力か才能か](https://zenn.dev/purenium/articles/2026_11_12_dostoevsky_voice_input_talent_or_skill)
 - Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_is_sharp_but_bad_at_cutting)
 - Nov 11 [LLMと包丁のメタファー](https://zenn.dev/purenium/articles/2026_11_11_llm_and_knife)
@@ -21,8 +23,6 @@ Software Developer / Engineer.
 - May 22 [Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!](https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init)
 - May 8 [仏教アビダンマの四相分析をClaude Code / Codex CLIのSkillにした](https://zenn.dev/purenium/articles/2026_05_08_lakkhanadi-catukka-analyzer)
 - Oct 4 [オブジェクト指向無本質論【後期ウィトゲンシュタイン/家族的類似性】―「本当のオブジェクト指向」はない](https://zenn.dev/purenium/articles/2025_10_04_object-oriented-family-resemblance)
-- Nov 1 [いかにして『型』は人を救うか。【ウィトゲンシュタイン / 千葉雅也】](https://zenn.dev/purenium/articles/2024_11_01_how_type_systems_can_save_humans)
-- Oct 31 [テストとは《写像》である～なぜ自動テストが書けないのか～](https://zenn.dev/purenium/articles/2024_11_31_test_is_a_mapping)
 <!-- profile updater end: zenn -->
 
 ## 📊 GitHub Stats
